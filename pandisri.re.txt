@@ -1,0 +1,10 @@
+personal details
+
+Name         :M.Pandisri
+Date of birth:27/04/2006
+Gender       :female
+
+Education Dedails
+
+University   :Bharathidasan University
+Department   :BCA
